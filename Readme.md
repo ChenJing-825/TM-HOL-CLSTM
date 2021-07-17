@@ -5,6 +5,8 @@
 * Keras >= 2.0.8
 * gensim >= 2.1.0
 
+## Embedding
+http://nlp.stanford.edu/projects/glove/
 ## Input data format
 A sampled data is provided in `data/tmn/labeled_data.csv` 
 
